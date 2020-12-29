@@ -1,0 +1,4 @@
+IP 192.168.0.51 /*needs a connection*/
+****
+d*****
+run_apt /*automatic*/
