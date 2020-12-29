@@ -1,3 +1,9 @@
+/*
+dietpi-launcher
+dietpi-config
+dietpi-software
+*/
+
 /*software and services installation*/
 *
 *xfce */desktop*/
@@ -5,5 +11,8 @@
 *portainer
 *nginx_lemp
 *samba
-*wifi_hotspot */hostapd_dnsmasq*/ 
+*wifi_hotspot */hostapd_dnsmasq*/
+*ssh_server
+*python3_pip
+
 *
