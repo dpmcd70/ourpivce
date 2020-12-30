@@ -14,5 +14,5 @@ dietpi-software
 *wifi_hotspot */hostapd_dnsmasq*/
 *ssh_server
 *python3_pip
-
+*wordpress
 *
